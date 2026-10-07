@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Compiled Java class files
+*.class
+**/*.class
+
+# Log files
+*.log
+npm-debug.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db
